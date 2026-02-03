@@ -254,7 +254,7 @@ OSHE-INTERVIEW-PROJECT/
 │   └── master_sql_pipeline.ipynb      # Pipeline ke SQL Server + Clustering
 │
 ├── powerbi/
-│   └── dashboard.pbix                 # Power BI Dashboard
+│   └── MSHA Mining dashboard.pbix     # Power BI Dashboard
 │
 └── README.md                          # File ini
 ```
@@ -330,10 +330,10 @@ Data Analyst / Data Engineer Enthusiast
 
 ## 📞 Contact & Support
 
-**Project Owner:** Bagus Diaz Pratama
-**Email:** bagusdiazp@gmail.com
-**LinkedIn:** www.linkedin.com/in/bagus-diaz-pratama
+- **Project Owner:** Bagus Diaz Pratama
+- **Email:** bagusdiazp@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bagus-diaz-pratama
 
 ---
 
-*Last Update: February 2026*
+*Last Update: 2 February 2026*
