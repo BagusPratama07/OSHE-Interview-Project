@@ -1,0 +1,21 @@
+# === Large Data Files ===
+data/raw/Accidents.txt
+data/raw/accidents_raw.zip
+data/staging/accidents_staging.csv
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# === Power BI ===
+*.pbip/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
